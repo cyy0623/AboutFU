@@ -55,33 +55,6 @@
             </objects>
             <point key="canvasLocation" x="1052" y="-202.84857571214394"/>
         </scene>
-        <!--專輯-->
-        <scene sceneID="Ppn-E4-lPn">
-            <objects>
-                <viewController id="DKo-UL-UEW" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="aTo-gb-evP"/>
-                        <viewControllerLayoutGuide type="bottom" id="9HG-Mq-EeP"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="MVF-AH-CPc">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="background_quat" translatesAutoresizingMaskIntoConstraints="NO" id="ssY-Gu-zNO">
-                                <rect key="frame" x="80" y="296" width="220" height="75"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                        </subviews>
-                        <color key="backgroundColor" red="1" green="0.85098039215686272" blue="0.90196078431372551" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                    </view>
-                    <tabBarItem key="tabBarItem" title="專輯" image="Music Record-40" selectedImage="Music Record Filled-40" id="mGS-jc-su2">
-                        <inset key="imageInsets" minX="5" minY="5" maxX="5" maxY="5"/>
-                    </tabBarItem>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="YnJ-jK-rVv" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="6" y="905"/>
-        </scene>
         <!--專輯列表-->
         <scene sceneID="Umw-ZR-e3K">
             <objects>
@@ -236,7 +209,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rQw-OT-gwy" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2005.5999999999999" y="123.68815592203899"/>
+            <point key="canvasLocation" x="1846" y="466"/>
         </scene>
         <!--你好，哈波尼斯-->
         <scene sceneID="quw-2h-ENj">
@@ -285,7 +258,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ibw-D1-mnc" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3717.5999999999999" y="-203.74812593703149"/>
+            <point key="canvasLocation" x="3390" y="-67"/>
         </scene>
         <!--天空島-->
         <scene sceneID="xPm-YB-Foe">
@@ -339,7 +312,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1OT-jn-95g" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3084" y="221"/>
+            <point key="canvasLocation" x="3390" y="707"/>
         </scene>
         <!--自成一派-->
         <scene sceneID="aPV-PN-k1m">
@@ -394,7 +367,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cMZ-WD-yUr" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3718" y="466"/>
+            <point key="canvasLocation" x="2668" y="466"/>
         </scene>
         <!--原來如此!!-->
         <scene sceneID="MRw-au-nXF">
@@ -450,7 +423,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tYP-R4-VI6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3084" y="-470.01499250374815"/>
+            <point key="canvasLocation" x="2668" y="-277"/>
         </scene>
         <!--專輯-->
         <scene sceneID="vcX-je-Qj5">
